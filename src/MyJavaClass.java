@@ -4,5 +4,6 @@
 public class MyJavaClass {
     public void hello() {
         System.out.println("Hello from Java");
+        System.out.println("Hello from Java!!!!!!!!!!!!!!!!");
     }
 }

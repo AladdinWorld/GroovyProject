@@ -1,4 +1,4 @@
-@Library("happy-shared-library@deveop") _
+@Library("happy-shared-library@1.0") _
     standardPipeline {
         projectName = "Project1"
         serverDomain = "Project1 Server Domain"
